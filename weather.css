@@ -1,0 +1,37 @@
+body{
+    background: fixed url('https://www.teahub.io/photos/full/301-3012121_background-pic-blur-full-hd.jpg');
+}
+
+.title{
+    color: rgb(61, 61, 61);
+}
+.city-name{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 100px;
+    color: rgba(63, 63, 63, 0.534);
+}
+.temp-no{
+    text-align: center;
+    font-size: 200px;
+    font-weight: 700;
+    margin-top: -70px;
+}
+.feels{
+    
+    text-align: center;
+    font-size: 30px;
+    margin-top: -70px;
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+#line{
+    text-align: center;
+    font-size: 100px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.date{
+text-align: center;
+color: black;
+}
